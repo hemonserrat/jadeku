@@ -1,0 +1,9 @@
+<map id="InitPacket" name="InitPacket">
+<area shape="rect" id="node2" href="$jadeku_8c.html#a7e957057330af0e7642cab7e248fb6eb" title="Init0" alt="" coords="153,5,200,31"/>
+<area shape="rect" id="node5" href="$jadeku_8c.html#ae11557c4d3712c0d063aa652721751e5" title="Init1" alt="" coords="153,55,200,80"/>
+<area shape="rect" id="node6" href="$jadeku_8c.html#a278f83e888257f02ff69fe5297221504" title="SendRegis" alt="" coords="133,203,220,228"/>
+<area shape="rect" id="node7" href="$jadeku_8c.html#ac9a05deecae436cb7cb159789c5a7375" title="SendFlash" alt="" coords="134,104,219,129"/>
+<area shape="rect" id="node8" href="$jadeku_8c.html#a1e0b3a1baa417d73ceaea450f40a1e2b" title="SendInfo" alt="" coords="139,153,214,179"/>
+<area shape="rect" id="node3" href="$jadeku_8c.html#af657e83a4c40a5ccc9ec2a5a501a1909" title="Process" alt="" coords="268,116,337,141"/>
+<area shape="rect" id="node4" href="$jadeku_8c.html#a6288eba0f8e8ad3ab1544ad731eb7667" title="main" alt="" coords="385,153,436,179"/>
+</map>

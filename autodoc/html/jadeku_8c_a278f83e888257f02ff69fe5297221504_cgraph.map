@@ -1,0 +1,16 @@
+<map id="SendRegis" name="SendRegis">
+<area shape="rect" id="node2" href="$fs_8c.html#a7d611e7547a5e27f921ce0da94913231" title="FS_ReadRegis" alt="" coords="140,55,252,80"/>
+<area shape="rect" id="node10" href="$jadeku_8c.html#a5c0157ff791f0e0d4647f961948dc120" title="InitPacket" alt="" coords="156,104,236,129"/>
+<area shape="rect" id="node11" href="$timecvt_8c.html#a5e6a03fec957d6602426fd21c54cdd51" title="unixtodos" alt="" coords="157,153,235,179"/>
+<area shape="rect" id="node12" href="$jadeku_8c.html#aba20e6d84b0497aed69f289369441c30" title="Add" alt="" coords="173,255,218,280"/>
+<area shape="rect" id="node13" href="$jadeku_8c.html#a2e122c72585c4550977d93e69b1140b0" title="xitoa" alt="" coords="339,229,388,255"/>
+<area shape="rect" id="node15" href="$jadeku_8c.html#a50d17e1eec431e58047a2be01a02797f" title="CRO_Crc" alt="" coords="156,304,235,329"/>
+<area shape="rect" id="node3" href="$at45xx_8c.html#ab16263d86a612704e13cde116487ed4a" title="DF_Page2Buffer1" alt="" coords="300,5,427,31"/>
+<area shape="rect" id="node6" href="$fs_8c.html#a27507e1a9eee6aea6ffc9426452438cd" title="FS_WaitReady" alt="" coords="308,55,419,80"/>
+<area shape="rect" id="node9" href="$at45xx_8c.html#a73bf7e0a9a69c10df0c36f5fbd5f5bdd" title="DF_ReadBuffer1" alt="" coords="475,105,597,131"/>
+<area shape="rect" id="node4" href="$spi_8c.html#a2adcf6030f1c2069e38a2b64cf9784ee" title="SPI_Write" alt="" coords="645,56,726,81"/>
+<area shape="rect" id="node5" href="$spi_8c.html#af3050a6d181b2c89bb9f262abbc388d3" title="SPI_Exchange" alt="" coords="775,81,884,107"/>
+<area shape="rect" id="node7" href="$at45xx_8c.html#a7a88f1f83b7f6ffb28e85f72fc36a8a1" title="DF_ReadStatus" alt="" coords="478,56,594,81"/>
+<area shape="rect" id="node8" href="$spi_8c.html#ae2a9bef104c7a4849459e7f1c5e7f9e5" title="SPI_Read" alt="" coords="645,105,727,131"/>
+<area shape="rect" id="node14" href="$jadeku_8c.html#afc6ed6217ec33cf8484a8b63bb662de9" title="xreverse" alt="" coords="500,229,572,255"/>
+</map>

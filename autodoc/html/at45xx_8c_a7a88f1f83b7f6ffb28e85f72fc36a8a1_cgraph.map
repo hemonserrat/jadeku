@@ -1,0 +1,5 @@
+<map id="DF_ReadStatus" name="DF_ReadStatus">
+<area shape="rect" id="node2" href="$spi_8c.html#a2adcf6030f1c2069e38a2b64cf9784ee" title="SPI_Write" alt="" coords="170,5,251,31"/>
+<area shape="rect" id="node4" href="$spi_8c.html#ae2a9bef104c7a4849459e7f1c5e7f9e5" title="SPI_Read" alt="" coords="170,55,252,80"/>
+<area shape="rect" id="node3" href="$spi_8c.html#af3050a6d181b2c89bb9f262abbc388d3" title="SPI_Exchange" alt="" coords="300,31,409,56"/>
+</map>

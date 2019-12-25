@@ -1,0 +1,24 @@
+<map id="spiIO" name="spiIO">
+<area shape="rect" id="node2" href="$spi_8c.html#a95a14ec905058b7fe5055062cef8f31b" title="wrSPI" alt="" coords="106,348,163,373"/>
+<area shape="rect" id="node23" href="$spi_8c.html#ac65008c9301f464ed6f85457ad6bf931" title="rdSPI" alt="" coords="107,397,162,423"/>
+<area shape="rect" id="node3" href="$at45xx_8c.html#a7a88f1f83b7f6ffb28e85f72fc36a8a1" title="DF_ReadStatus" alt="" coords="228,500,344,525"/>
+<area shape="rect" id="node17" href="$at45xx_8c.html#ac7055910f10fd56356eb5d26e1984f43" title="DF_WriteBuffer1" alt="" coords="440,351,560,376"/>
+<area shape="rect" id="node18" href="$at45xx_8c.html#a73bf7e0a9a69c10df0c36f5fbd5f5bdd" title="DF_ReadBuffer1" alt="" coords="440,151,561,176"/>
+<area shape="rect" id="node19" href="$at45xx_8c.html#a4aeb6e46260ffe4937850704e3449b07" title="DF_Buffer12MainMemoryE" alt="" coords="409,400,592,425"/>
+<area shape="rect" id="node20" href="$at45xx_8c.html#ab16263d86a612704e13cde116487ed4a" title="DF_Page2Buffer1" alt="" coords="436,249,564,275"/>
+<area shape="rect" id="node21" href="$at45xx_8c.html#aa27e473d1a816f148baf1d1ea0907232" title="DF_AutoPageRewrite" alt="" coords="211,64,361,89"/>
+<area shape="rect" id="node22" href="$at45xx_8c.html#a1542f52dc30e059f19f2a864b1915365" title="DF_Compare" alt="" coords="450,449,551,475"/>
+<area shape="rect" id="node4" href="$fs_8c.html#acd0a9c41843232fcde9ee7969deea307" title="WaitReady" alt="" coords="457,200,543,225"/>
+<area shape="rect" id="node6" href="$fs_8c.html#a414dd4add7962252621d85031373a743" title="fs_SetBoot" alt="" coords="656,499,742,524"/>
+<area shape="rect" id="node8" href="$fs_8c.html#aed8706bab24745fda7e2fe6d67395259" title="fs_Init" alt="" coords="807,252,864,277"/>
+<area shape="rect" id="node12" href="$fs_8c.html#a16d1d5ad5671d39275c6de653890e244" title="fs_AppendRegis" alt="" coords="640,301,759,327"/>
+<area shape="rect" id="node14" href="$fs_8c.html#a4e50d167048ac905057e8633f5c2ae5f" title="fs_AppendUnit" alt="" coords="645,400,754,425"/>
+<area shape="rect" id="node15" href="$fs_8c.html#a7d7beab0735cf9792d69bc58c8cc6a2a" title="fs_WriteUnit" alt="" coords="652,449,746,475"/>
+<area shape="rect" id="node5" href="$fs_8c.html#a67ad5786172da855a83dcad5a79e0862" title="fs_Check" alt="" coords="661,5,738,31"/>
+<area shape="rect" id="node7" href="$fs_8c.html#aa61a601723b03e5453eb1e07473bc724" title="fs_GetBoot" alt="" coords="655,104,743,129"/>
+<area shape="rect" id="node9" href="$fs_8c.html#a139ad1b609aab1e0cc65a82df316ea8b" title="fs_Format" alt="" coords="659,351,740,376"/>
+<area shape="rect" id="node10" href="$fs_8c.html#a7a49db9e11963728d325ee08d3b75042" title="fs_Length" alt="" coords="659,153,739,179"/>
+<area shape="rect" id="node11" href="$fs_8c.html#a5e715c8d55add130bcdc2197082d48fe" title="fs_ZapRegis" alt="" coords="651,252,747,277"/>
+<area shape="rect" id="node13" href="$fs_8c.html#ae8be79a5b819b194f59962e3dfca56f3" title="fs_ReadRegis" alt="" coords="647,203,752,228"/>
+<area shape="rect" id="node16" href="$fs_8c.html#a230767d4b971ea651e18eef8ac74b602" title="fs_ReadUnit" alt="" coords="652,55,747,80"/>
+</map>

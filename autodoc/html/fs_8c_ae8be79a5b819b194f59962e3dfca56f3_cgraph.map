@@ -1,0 +1,9 @@
+<map id="fs_ReadRegis" name="fs_ReadRegis">
+<area shape="rect" id="node2" href="$at45xx_8h.html#a4c257a97bb374efbace8849fbb405aea" title="DF_Page2Buffer1" alt="" coords="158,5,286,31"/>
+<area shape="rect" id="node5" href="$fs_8c.html#acd0a9c41843232fcde9ee7969deea307" title="WaitReady" alt="" coords="179,107,265,132"/>
+<area shape="rect" id="node8" href="$at45xx_8h.html#a73bf7e0a9a69c10df0c36f5fbd5f5bdd" title="DF_ReadBuffer1" alt="" coords="334,56,455,81"/>
+<area shape="rect" id="node3" href="$spi_8h.html#a95a14ec905058b7fe5055062cef8f31b" title="wrSPI" alt="" coords="503,56,560,81"/>
+<area shape="rect" id="node4" href="$spi_8c.html#a6a92c4a48519f8a6cd7501ff785826e5" title="spiIO" alt="" coords="608,81,661,107"/>
+<area shape="rect" id="node6" href="$at45xx_8h.html#a7a88f1f83b7f6ffb28e85f72fc36a8a1" title="DF_ReadStatus" alt="" coords="337,105,453,131"/>
+<area shape="rect" id="node7" href="$spi_8h.html#ac65008c9301f464ed6f85457ad6bf931" title="rdSPI" alt="" coords="505,105,559,131"/>
+</map>

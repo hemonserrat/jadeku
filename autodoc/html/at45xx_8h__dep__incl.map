@@ -1,0 +1,10 @@
+<map id="at45xx.h" name="at45xx.h">
+<area shape="rect" id="node2" href="$app_8h.html" title="JADEKU project defines and dependency headers. " alt="" coords="260,79,315,104"/>
+<area shape="rect" id="node3" href="$at45xx_8c.html" title="at45xx.c" alt="" coords="5,152,76,177"/>
+<area shape="rect" id="node4" href="$delay_8c.html" title="Delay routines. Target: PIC16F876. " alt="" coords="100,152,163,177"/>
+<area shape="rect" id="node5" href="$fs_8c.html" title="File System. " alt="" coords="186,152,229,177"/>
+<area shape="rect" id="node6" href="$jadeku_8c.html" title="JADEKU Portable ADQ device for Routines Control. " alt="" coords="252,152,323,177"/>
+<area shape="rect" id="node7" href="$onewire_8c.html" title="1 wire protocol functions. Target: PIC16F876 " alt="" coords="347,152,425,177"/>
+<area shape="rect" id="node8" href="$sci_8c.html" title="Serial Communication Interface. Target: PIC16F876. " alt="" coords="449,152,497,177"/>
+<area shape="rect" id="node9" href="$spi_8c.html" title="Serial Peripheral Interface module Target: PIC16F876. " alt="" coords="520,152,569,177"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="WaitReady" name="WaitReady">
+<area shape="rect" id="node2" href="$at45xx_8h.html#a7a88f1f83b7f6ffb28e85f72fc36a8a1" title="DF_ReadStatus" alt="" coords="139,31,256,56"/>
+<area shape="rect" id="node3" href="$spi_8h.html#a95a14ec905058b7fe5055062cef8f31b" title="wrSPI" alt="" coords="304,5,360,31"/>
+<area shape="rect" id="node5" href="$spi_8h.html#ac65008c9301f464ed6f85457ad6bf931" title="rdSPI" alt="" coords="305,55,359,80"/>
+<area shape="rect" id="node4" href="$spi_8c.html#a6a92c4a48519f8a6cd7501ff785826e5" title="spiIO" alt="" coords="408,31,461,56"/>
+</map>

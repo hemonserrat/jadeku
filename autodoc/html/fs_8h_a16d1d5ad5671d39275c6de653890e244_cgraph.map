@@ -1,0 +1,12 @@
+<map id="fs_AppendRegis" name="fs_AppendRegis">
+<area shape="rect" id="node2" href="$at45xx_8h.html#a4c257a97bb374efbace8849fbb405aea" title="DF_Page2Buffer1" alt="" coords="403,156,531,181"/>
+<area shape="rect" id="node5" href="$fs_8c.html#acd0a9c41843232fcde9ee7969deea307" title="WaitReady" alt="" coords="221,5,307,31"/>
+<area shape="rect" id="node6" href="$at45xx_8h.html#a7a88f1f83b7f6ffb28e85f72fc36a8a1" title="DF_ReadStatus" alt="" coords="409,57,525,83"/>
+<area shape="rect" id="node8" href="$at45xx_8h.html#a73bf7e0a9a69c10df0c36f5fbd5f5bdd" title="DF_ReadBuffer1" alt="" coords="406,107,528,132"/>
+<area shape="rect" id="node9" href="$at45xx_8h.html#ac7055910f10fd56356eb5d26e1984f43" title="DF_WriteBuffer1" alt="" coords="407,308,527,333"/>
+<area shape="rect" id="node10" href="$at45xx_8h.html#a4aeb6e46260ffe4937850704e3449b07" title="DF_Buffer12MainMemoryE" alt="" coords="173,208,355,233"/>
+<area shape="rect" id="node11" href="$at45xx_8h.html#a5a7ac1236c0a209a3760b2e3c2729748" title="DF_Compare" alt="" coords="213,257,315,283"/>
+<area shape="rect" id="node3" href="$spi_8h.html#a95a14ec905058b7fe5055062cef8f31b" title="wrSPI" alt="" coords="579,156,636,181"/>
+<area shape="rect" id="node4" href="$spi_8c.html#a6a92c4a48519f8a6cd7501ff785826e5" title="spiIO" alt="" coords="684,132,736,157"/>
+<area shape="rect" id="node7" href="$spi_8h.html#ac65008c9301f464ed6f85457ad6bf931" title="rdSPI" alt="" coords="580,107,635,132"/>
+</map>

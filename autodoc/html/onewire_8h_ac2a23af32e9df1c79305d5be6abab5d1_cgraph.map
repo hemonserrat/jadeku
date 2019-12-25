@@ -1,0 +1,7 @@
+<map id="OneWire_GetID" name="OneWire_GetID">
+<area shape="rect" id="node2" href="$onewire_8c.html#aafa14fffb9870c35caffb187e54c04a9" title="OneWire_Init" alt="" coords="177,5,276,31"/>
+<area shape="rect" id="node4" href="$onewire_8c.html#af01666a6fe8c97bbe7759ad5aed204f0" title="OneWire_Write" alt="" coords="170,55,282,80"/>
+<area shape="rect" id="node5" href="$onewire_8c.html#a19ee289a191376c92c54d7a7a9c29e85" title="OneWire_Read" alt="" coords="170,104,283,129"/>
+<area shape="rect" id="node6" href="$onewire_8c.html#a51cf3c93fb3c366f8c8ea9fe83b10fc3" title="OneWire_Crc8" alt="" coords="171,153,281,179"/>
+<area shape="rect" id="node3" href="$delay_8c.html#a60533713433dfb372701aa3e51d83e2e" title="delay_10us" alt="" coords="331,55,420,80"/>
+</map>

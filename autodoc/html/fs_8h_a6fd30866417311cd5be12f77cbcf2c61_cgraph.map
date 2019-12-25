@@ -1,0 +1,11 @@
+<map id="FS_ZapRegis" name="FS_ZapRegis">
+<area shape="rect" id="node2" href="$at45xx_8c.html#ab16263d86a612704e13cde116487ed4a" title="DF_Page2Buffer1" alt="" coords="387,156,515,181"/>
+<area shape="rect" id="node5" href="$fs_8c.html#a27507e1a9eee6aea6ffc9426452438cd" title="FS_WaitReady" alt="" coords="192,56,303,81"/>
+<area shape="rect" id="node8" href="$at45xx_8c.html#a73bf7e0a9a69c10df0c36f5fbd5f5bdd" title="DF_ReadBuffer1" alt="" coords="390,5,511,31"/>
+<area shape="rect" id="node9" href="$at45xx_8c.html#ac7055910f10fd56356eb5d26e1984f43" title="DF_WriteBuffer1" alt="" coords="187,207,308,232"/>
+<area shape="rect" id="node10" href="$at45xx_8c.html#a4aeb6e46260ffe4937850704e3449b07" title="DF_Buffer12MainMemoryE" alt="" coords="156,105,339,131"/>
+<area shape="rect" id="node3" href="$spi_8c.html#a2adcf6030f1c2069e38a2b64cf9784ee" title="SPI_Write" alt="" coords="563,104,644,129"/>
+<area shape="rect" id="node4" href="$spi_8c.html#af3050a6d181b2c89bb9f262abbc388d3" title="SPI_Exchange" alt="" coords="693,80,802,105"/>
+<area shape="rect" id="node6" href="$at45xx_8c.html#a7a88f1f83b7f6ffb28e85f72fc36a8a1" title="DF_ReadStatus" alt="" coords="393,55,509,80"/>
+<area shape="rect" id="node7" href="$spi_8c.html#ae2a9bef104c7a4849459e7f1c5e7f9e5" title="SPI_Read" alt="" coords="563,55,645,80"/>
+</map>

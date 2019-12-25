@@ -1,0 +1,13 @@
+<map id="DF_WriteBuffer1" name="DF_WriteBuffer1">
+<area shape="rect" id="node2" href="$fs_8h.html#a075e7e00c0e839f1031c08e3e65a4d96" title="FS_SetBoot" alt="" coords="353,107,446,132"/>
+<area shape="rect" id="node5" href="$fs_8h.html#ae501732188467b4e1ec950b18b694b09" title="FS_Format" alt="" coords="356,5,444,31"/>
+<area shape="rect" id="node7" href="$fs_8h.html#a6fd30866417311cd5be12f77cbcf2c61" title="FS_ZapRegis" alt="" coords="180,56,283,81"/>
+<area shape="rect" id="node8" href="$fs_8h.html#a71bdf8ea3037ebc081fccd5a8c7d0412" title="FS_AppendRegis" alt="" coords="337,232,463,257"/>
+<area shape="rect" id="node10" href="$fs_8h.html#a72138b99174929186dbd7c6b9228e1e8" title="FS_AppendUnit" alt="" coords="173,157,289,183"/>
+<area shape="rect" id="node12" href="$fs_8h.html#a117b9aaae0b0a91fc81daa99aa27b226" title="FS_WriteUnit" alt="" coords="181,207,281,232"/>
+<area shape="rect" id="node3" href="$jadeku_8c.html#af657e83a4c40a5ccc9ec2a5a501a1909" title="Process" alt="" coords="511,93,580,119"/>
+<area shape="rect" id="node4" href="$jadeku_8c.html#a6288eba0f8e8ad3ab1544ad731eb7667" title="main" alt="" coords="628,93,679,119"/>
+<area shape="rect" id="node6" href="$fs_8h.html#ab6a3f86eb6b587f4bbe71fe08220a15e" title="FS_Init" alt="" coords="514,19,577,44"/>
+<area shape="rect" id="node9" href="$jadeku_8c.html#a33a8b7f41d57777f8d86fddbc32ee07f" title="Save" alt="" coords="520,168,571,193"/>
+<area shape="rect" id="node11" href="$jadeku_8c.html#acf2465830a9e921beedc38b0e3d1ff3e" title="CheckUnits" alt="" coords="355,157,445,183"/>
+</map>

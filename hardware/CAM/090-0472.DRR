@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 090-0472.PCB   7-Jul-2004   11:55:16
+---------------------------------------------------------------------------
+
+
+
+Layer Pair : TopLayer to BottomLayer
+ASCII File : NCDrillOutput.TXT
+EIA File   : NCDrillOutput.DRL
+
+Tool         Hole Size          Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        24mil (0.6096mm)         28               8.75 Inch (222.35 mm)
+T2        35mil (0.889mm)          4                2.99 Inch (75.83 mm)
+T3        40mil (1.016mm)          15               5.91 Inch (150.10 mm)
+T4        126mil (3.2004mm)        3                4.05 Inch (102.86 mm)
+T5        58mil (1.4732mm)         3         NPTH   4.15 Inch (105.48 mm)
+---------------------------------------------------------------------------
+Totals                             53               25.85 Inch (656.62 mm)
+
+Total Processing Time : 00:00:01
