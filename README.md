@@ -22,7 +22,7 @@ Hardware block diagram:
 
 #### Embedded Software
 
-![](autodoc/html/jadeku_8c_a6288eba0f8e8ad3ab1544ad731eb7667_cgraph.png)
+![](docs/jadeku_8c_a6288eba0f8e8ad3ab1544ad731eb7667_cgraph.png)
 
 [Doxygen documentation](https://hemonserrat.github.io/jadeku/)
 
