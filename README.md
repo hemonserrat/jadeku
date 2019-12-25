@@ -52,12 +52,12 @@ CAM [Gerbers folder](hardware/CAM)
 - - - 
 - Commercial use case:  Watchman's clock  (routine control)
 
-| ![KIT-JADEKU](./img/KIT-JADEKU.gif)                          | Complete kit, including wall mount points, DS1990 iButtons, serial cable and PC Software      |
+| ![KIT-JADEKU](img/KIT-JADEKU.gif)                          | Complete kit, including wall mount points, DS1990 iButtons, serial cable and PC Software      |
 | ------------------------------------------------------------ | ---- |
-| ![pic_jadeku](/Users/hernan/MPLABXProjects/jadeku/img/pic_jadeku.gif) | The device with its ruged metal case.|
-| ![pic_nosotros](/Users/hernan/MPLABXProjects/jadeku/img/pic_nosotros.jpg) | Security guard/Watchman check in at an station point   |
-| ![JADEKU-17](/Users/hernan/MPLABXProjects/jadeku/img/JADEKU-17.gif) | Handheld portable device  |
-| ![JADEKU-2](/Users/hernan/MPLABXProjects/jadeku/img/JADEKU-2.gif) |  Dallas DS1990 1-wire check in station/point |
+| ![pic_jadeku](img/pic_jadeku.gif) | The device with its ruged metal case.|
+| ![pic_nosotros](img/pic_nosotros.jpg) | Security guard/Watchman check in at an station point   |
+| ![JADEKU-17](img/JADEKU-17.gif) | Handheld portable device  |
+| ![JADEKU-2](img/JADEKU-2.gif) |  Dallas DS1990 1-wire check in station/point |
 
 
 
