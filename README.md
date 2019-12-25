@@ -26,9 +26,9 @@ Hardware block diagram:
 
 [Doxygen documentation](autodoc/html/index.html)
 
-| IDE:| MPLAB X IDE v5.15|
+| IDE:| MPLAB X IDE v5.25 |
 | ------------------------------------------------------------ | ---- |
-| Compiler:| XC8 | 
+| Compiler:| XC8 v1.41 | 
 
 See folders: <br>
 [inc](inc/) <br>
