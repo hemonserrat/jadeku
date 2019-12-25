@@ -1,4 +1,4 @@
-#  ![JADEKU](doc/watchman.gif) JADEKU - ADQ128 
+#  ![JADEKU](img/watchman.gif) JADEKU - ADQ128 
 ## Portable Low-Power Data Acquisition Device 
 
 ### Description
@@ -24,7 +24,7 @@ Hardware block diagram:
 
 ![](autodoc/html/jadeku_8c_a6288eba0f8e8ad3ab1544ad731eb7667_cgraph.png)
 
-[Doxygen documentation](autodoc/html/index.html)
+[Doxygen documentation](https://hemonserrat.github.io/jadeku/)
 
 | IDE:| MPLAB X IDE v5.25 |
 | ------------------------------------------------------------ | ---- |
